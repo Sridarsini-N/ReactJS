@@ -1,0 +1,14 @@
+.backgroundDiv{
+    background: linear-gradient(to right, rgb(207, 86, 207), rgb(218, 86, 108));
+    height:100vh ;
+}
+.secondBg{
+    height: 80vh;
+    width: 140vh;
+    border-radius: 20px;
+}
+.loginbtn{
+    background-color: rgb(9, 224, 9);
+    border-radius: 30px;
+    height: 35px;
+}

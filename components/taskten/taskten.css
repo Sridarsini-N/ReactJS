@@ -1,0 +1,9 @@
+.backDiv{
+    background-color: #ffffff;
+    background-image: linear-gradient(315deg, #ffffff 0%, #f47b7b 74%);
+        height: 100vh;
+        
+    }
+    div>p{
+        color: black;
+    }
